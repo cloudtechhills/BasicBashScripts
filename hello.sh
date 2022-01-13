@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#THIS IS MY FIRST HELLO WORLD PROGRAM TO BE UPLOADED VIA GIT CLI
+
+echo "Hello World!"
